@@ -1,5 +1,8 @@
 # asiva014_lab1
-
+Anisha Siva
+asiva014@ucr.edu
+asiva014
+862283883
 
 ## Q1: What is the name of the directory that the `mvn archetype:generate` command creates?
 
